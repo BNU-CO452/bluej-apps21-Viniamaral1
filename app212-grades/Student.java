@@ -1,3 +1,4 @@
+
 import java.util.*;
 /**
  * The Student class represents a student in a student administration system.
@@ -24,7 +25,7 @@ public class Student
      */
     public Student()
     {
-        this("Derek", 12345678);
+        this("vinicius", 22029282);
     }
     
     /**
