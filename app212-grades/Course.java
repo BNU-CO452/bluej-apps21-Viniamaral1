@@ -53,10 +53,13 @@ public class Course
     {
      Module co452 = new Module ("CO452", "Programmig Concepts");
      modules.add(co452);
+     
      Module co456 = new Module ("CO456", "Web Development");
-     modules.add(co456);    
+     modules.add(co456); 
+     
      Module co450 = new Module ("CO450", "Computer Architectures");
-     modules.add(co450);     
+     modules.add(co450);
+     
      Module co407 = new Module ("CO407", "Essentials Of A.I");
      modules.add(co407);
     }
@@ -76,14 +79,19 @@ public class Course
     {
      if(mark >= 0 && mark <=39)
          return Grades.F;
+     
      else if(mark >= 40 && mark <=49)
          return Grades.D;
+     
      else if(mark >= 50 && mark <= 59)
          return Grades.C;
+     
      else if(mark >= 60 && mark <=69)
          return Grades.B;
+     
      else if(mark >= 70 && mark <= 100)
          return Grades.A; 
+     
      else 
          return Grades.NS;
     }
