@@ -59,6 +59,7 @@ public class StockDemo
     
     private void buyProducts()
     {
+        stock.buyProducts();
     }
 
     private void sellProducts()

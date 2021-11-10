@@ -53,13 +53,10 @@ public class Course
     {
      Module co452 = new Module ("CO452", "Programmig Concepts");
      modules.add(co452);
-     
      Module co456 = new Module ("CO456", "Web Development");
-     modules.add(co456);
-     
+     modules.add(co456);    
      Module co450 = new Module ("CO450", "Computer Architectures");
-     modules.add(co450);
-     
+     modules.add(co450);     
      Module co407 = new Module ("CO407", "Essentials Of A.I");
      modules.add(co407);
     }
