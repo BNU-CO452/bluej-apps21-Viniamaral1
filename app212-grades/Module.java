@@ -3,8 +3,8 @@
  * credits that students achieve when they
  * pass the module with a mark of 40+
  *
- * @author Derek Peacock and Nicholas Day
- * @version 1.0 17/07/2021
+ * @author Vinicius do Amaral
+ * @version 1.0 27/10/2021
  */
 public class Module
 {
@@ -13,6 +13,8 @@ public class Module
     
     private String code;
     private String title;
+    private int credit;
+   
 
     /**
      * Constructor for objects of class Module 
@@ -22,6 +24,7 @@ public class Module
     {
         this.code = code;
         this.title = title;
+        this.credit =15;
     }
 
    
@@ -36,23 +39,41 @@ public class Module
         return title;
     }
     
-    /**
-     * Print out the code and title of this module
-     * but stay on the same line so that credits
-     * can be added if needed.
-     */
-    public void print()
-    {
-        System.out.println();
-        System.out.print(" " + code + ": " + "\t" + title);
-    }
     
-    /**
-     * Print out the credit on the current line
+   
+    public int getCredit()
+    {
+     return this.credit;
+    }
+          
+    public void setCredit(int credit)
+     {
+      this.credit= credit;
+     }
+	 
+	 
+	 
+	/**
+    * Print out the credit on the current line
      * so that a mark and grade could be added
      */
     public void printCredit()
     {
         System.out.print("\t  " + CREDIT + " credits");
+    }
+	
+
+  
+    
+    /**
+     * Prints out the details of a course and the
+     * four modules
+     */
+    public void print()
+    {
+        //pritHeading();
+        
+        System.out.println(" Module Course " + code + ": " + title);
+        System.out.println();
     }
 }

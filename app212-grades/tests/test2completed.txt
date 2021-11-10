@@ -1,0 +1,114 @@
+ Student ID: 22029282, vinicius
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by Vinicius do Amaral
+ ------------------------------------
+ Student ID: 22029282, vinicius
+
+ Course BB1ARI1;BSc Artificial Intelligence
+ Module Course CO452: Programmig Concepts
+
+ Module Course CO456: Web Development
+
+ Module Course CO450: Computer Architectures
+
+ Module Course CO407: Essentials Of A.I
+
+
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Module Course CO452: PC
+
+	  15	70	A
+
+
+ Final Course Grade = F
+	  15 credits ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by Vinicius do Amaral
+ ------------------------------------
+ Student ID: 22029282, vinicius
+
+ Course BB1ARI1;BSc Artificial Intelligence
+ Module Course CO452: Programmig Concepts
+
+ Module Course CO456: Web Development
+
+ Module Course CO450: Computer Architectures
+
+ Module Course CO407: Essentials Of A.I
+
+
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Module Course CO452: PC
+
+	  15	70	A
+
+
+ Final Course Grade = F
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by Vinicius do Amaral
+ ------------------------------------
+ Student ID: 22029282, vinicius
+
+ Course BB1ARI1;BSc Artificial Intelligence
+ Module Course CO452: Programmig Concepts
+
+ Module Course CO456: Web Development
+
+ Module Course CO450: Computer Architectures
+
+ Module Course CO407: Essentials Of A.I
+
+
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Module Course CO452: Programming C
+
+	  15	70	A
+
+
+ Final Course Grade = F
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by Vinicius do Amaral
+ ------------------------------------
+ Student ID: 22029282, vinicius
+
+ Course BB1ARI1;BSc Artificial Intelligence
+ Module Course CO452: Programmig Concepts
+
+ Module Course CO456: Web Development
+
+ Module Course CO450: Computer Architectures
+
+ Module Course CO407: Essentials Of A.I
+
+
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Module Course CO452: Programming Concpets
+
+	  15	70	A
+ Module Course CO456: Web Development
+
+	  15	65	B
+ Module Course CO450: Computer Architectures
+
+	  15	44	D
+ Module Course CO407: Essentials of A.I
+
+	  15	50	C
+
+
+ Final Course Grade = C

@@ -23,9 +23,18 @@ public class StockDemo
         // Add at least 10 products, they must be unique to you
         // Make sure the ids are sequential numbers
         
-        stock.add(new Product(101, "Samsung Galaxy S20"));
-        stock.add(new Product(102, "Apple iPhone 12"));
-        stock.add(new Product(103, "Google Pixel 4A"));
+        stock.add(new Product(101, "Protein Power"));
+        stock.add(new Product(102, "Mass Gainer"));
+        stock.add(new Product(103, "Protein Bar"));
+        stock.add(new Product(104, "Dumbbell"));
+        stock.add(new Product(105, "Ketllebell"));
+        stock.add(new Product(106, "Exercise Rubber Band"));
+        stock.add(new Product(107, "Barbell"));
+        stock.add(new Product(108, "Vegan Protein"));
+        stock.add(new Product(109, "Vitamins"));
+        stock.add(new Product(110, "Gloves"));
+        
+             
     }
     
     /**

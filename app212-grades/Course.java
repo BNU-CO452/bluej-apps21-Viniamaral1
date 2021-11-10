@@ -1,10 +1,11 @@
 import java.util.ArrayList;
 /**
- * This class stores information about a course
- * that enrolled students may want to complete
- *
- * @author Derek Peacock and Nicholas Day
- * @version 0.1 11/Sep/2020
+ * this class is related to grades of each module that the is been studying 
+ * throughtout the term the purpose of the class is to add the module and
+ * grades
+ 
+ * @author Vinicius do Amaral
+ * @version 0.1 01/oct/2021
  */
 public class Course
 {
@@ -14,12 +15,13 @@ public class Course
     
     private String code;
     private String title;
+    private int credit;
     
     private Grades finalGrade;
      
     public Course()
     {
-        this("G400", "BSc Computing");
+        this("BB1ARI1", "BSc Artificial Intelligence");
     }
     
     /**
@@ -30,11 +32,17 @@ public class Course
         // initialise instance variables
         this.code = code;
         this.title = title;
+        this.credit=15;
         
         modules  = new ArrayList<Module>();
         
         createModules();
     }
+    
+    public void setCredit(int credit)
+     {
+      this.credit= credit;
+     }
 
     /**
      * Create four modules and add them to the
@@ -43,7 +51,17 @@ public class Course
      */
     public void createModules()
     {
-
+     Module co452 = new Module ("CO452", "Programmig Concepts");
+     modules.add(co452);
+     
+     Module co456 = new Module ("CO456", "Web Development");
+     modules.add(co456);
+     
+     Module co450 = new Module ("CO450", "Computer Architectures");
+     modules.add(co450);
+     
+     Module co407 = new Module ("CO407", "Essentials Of A.I");
+     modules.add(co407);
     }
     
     public void addModule(Module module)
@@ -59,7 +77,18 @@ public class Course
      */
     public Grades convertToGrade(int mark)
     {
-        return Grades.NS;
+     if(mark >= 0 && mark <=39)
+         return Grades.F;
+     else if(mark >= 40 && mark <=49)
+         return Grades.D;
+     else if(mark >= 50 && mark <= 59)
+         return Grades.C;
+     else if(mark >= 60 && mark <=69)
+         return Grades.B;
+     else if(mark >= 70 && mark <= 100)
+         return Grades.A; 
+     else 
+         return Grades.NS;
     }
     
     /**
@@ -68,7 +97,18 @@ public class Course
      */
     public Grades calculateGrade(ArrayList<ModuleMark> marks)
     {
-        return Grades.NS;
+     int total = 0;
+     int finalmark =0;
+     
+     for(ModuleMark mark : marks)
+     {
+            total = total + mark.getValue();
+     }
+        
+     finalmark = total /4;
+     finalGrade = convertToGrade (finalmark);
+        
+     return finalGrade;
     }
     
     /**
@@ -78,7 +118,7 @@ public class Course
     public void print()
     {
         System.out.println();
-        System.out.println(" Course " + code + ": " + title);
+        System.out.println(" Course "+ code+ ";" +title);
         //System.out.println();
         
         printModules();
@@ -89,6 +129,9 @@ public class Course
      */
     public void printModules()
     {
-        System.out.println();
-    }
+        for (Module module : modules)
+        {
+           module.print();
+                   }    
+     }
 }

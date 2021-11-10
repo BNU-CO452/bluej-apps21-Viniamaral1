@@ -1,9 +1,10 @@
 
 /**
- * Write a description of class ModuleMark here.
+ * class ModuleMark provide mark indenpendently for each student enrolled in 
+ * the course.
  *
- * @author Derek Peacock and Nicholas Day
- * @version 2021-08-18
+ * @author Vinicius do Amaral
+ * @version 01/oct/2021
  */
 public class ModuleMark
 {
