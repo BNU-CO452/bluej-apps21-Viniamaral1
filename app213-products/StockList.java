@@ -73,6 +73,7 @@ public class StockList
             if(product.getQuantity() > 0)
             {
                 product.decreaseQuantity(1);
+                product.increaseQuantity(5);
                 
                 // printout message
             }
