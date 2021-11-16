@@ -1,0 +1,35 @@
+ 
+ Vinicius's Stock List
+ ====================
+
+ ID 101: Protein Power stock level: 0
+ ID 101: Protein Powder stock level: 10
+
+ ID 101: Protein Powder stock level: 5
+ ID 102: Protein Bar stock level: 0
+ ID 102: Protein Bar stock level: 15
+ ID 102: Protein Bar stock level: 8
+
+ Vinicius's Stock List
+ ====================
+
+ ID 101: Protein Power stock level: 0
+ ID 101: Protein Powder stock level: 5
+ ID 102: Protein Bar stock level: 8
+
+
+ Vinicius's Stock List
+ ====================
+
+ ID 101: Protein Power stock level: 0
+ ID 101: Protein Powder stock level: 5
+ ID 102: Protein Bar stock level: 8
+
+
+ Vinicius's Stock List
+ ====================
+
+ ID 101: Protein Power stock level: 0
+ ID 101: Protein Powder stock level: 5
+ ID 102: Protein Bar stock level: 8
+

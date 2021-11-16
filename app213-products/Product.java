@@ -67,6 +67,7 @@ public class Product
             quantity = quantity - amount;
     }
     
+   
     /**
      * @return The id, name and quantity in stock.
      */

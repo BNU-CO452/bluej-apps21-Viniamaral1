@@ -1,0 +1,67 @@
+ 
+ Vinicius's Gym warehouse List
+ ====================
+
+ ID 101: Protein Power stock level: 0
+ ID 102: Mass Gainer stock level: 0
+ ID 103: Protein Bar stock level: 0
+ ID 104: Dumbbell stock level: 0
+ ID 105: Ketllebell stock level: 0
+ ID 106: Exercise Rubber Band stock level: 0
+ ID 107: Barbell stock level: 0
+ ID 108: Vegan Protein stock level: 0
+ ID 109: Vitamins stock level: 0
+ ID 110: Gloves stock level: 0
+
+bought2000ofProtein Power
+bought1500ofMass Gainer
+bought1100ofProtein Bar
+bought250ofDumbbell
+bought200ofKetllebell
+bought500ofExercise Rubber Band
+bought60ofBarbell
+bought750ofVegan Protein
+bought5000ofVitamins
+bought450ofGloves
+
+ Vinicius's Gym warehouse List
+ ====================
+
+ ID 101: Protein Power stock level: 2000
+ ID 102: Mass Gainer stock level: 1500
+ ID 103: Protein Bar stock level: 1100
+ ID 104: Dumbbell stock level: 250
+ ID 105: Ketllebell stock level: 200
+ ID 106: Exercise Rubber Band stock level: 500
+ ID 107: Barbell stock level: 60
+ ID 108: Vegan Protein stock level: 750
+ ID 109: Vitamins stock level: 5000
+ ID 110: Gloves stock level: 450
+
+sold1555ofProtein Power
+sold1050ofMass Gainer
+sold900ofProtein Bar
+sold50ofDumbbell
+sold198ofKetllebell
+low storage198ofKetllebell
+sold256ofExercise Rubber Band
+The productBarbellis  out of stock
+sold630ofVegan Protein
+sold4555ofVitamins
+sold449ofGloves
+low storage449ofGloves
+
+ Vinicius's Gym warehouse List
+ ====================
+
+ ID 101: Protein Power stock level: 445
+ ID 102: Mass Gainer stock level: 450
+ ID 103: Protein Bar stock level: 200
+ ID 104: Dumbbell stock level: 200
+ ID 105: Ketllebell stock level: 200
+ ID 106: Exercise Rubber Band stock level: 244
+ ID 107: Barbell stock level: 60
+ ID 108: Vegan Protein stock level: 120
+ ID 109: Vitamins stock level: 445
+ ID 110: Gloves stock level: 450
+
