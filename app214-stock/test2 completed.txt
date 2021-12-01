@@ -1,0 +1,170 @@
+ ********************************
+  App21-04: Vinicius`s application 
+      
+********************************
+
+    Add:          Add a new product
+    Remove:       Remove an old product
+    Buy:          Buy a listed product
+    Sell:         Sell a listed product
+    Search:       Search a product name protein
+    Lowstock:     Print products listed with low amount
+    Restock:      Re-stock listed products
+    Print:        Print all products
+    Quit:         Quit the program
+
+Please enter your choice > buy
+Please inform the ID of the product
+110
+Please inform the quantity that you wish to buy
+10
+Gloves
+You have successfully bought the product 
+********************************
+  App21-04: Vinicius`s application 
+      
+********************************
+
+    Add:          Add a new product
+    Remove:       Remove an old product
+    Buy:          Buy a listed product
+    Sell:         Sell a listed product
+    Search:       Search a product name protein
+    Lowstock:     Print products listed with low amount
+    Restock:      Re-stock listed products
+    Print:        Print all products
+    Quit:         Quit the program
+
+Please enter your choice > buy
+Please inform the ID of the product
+109
+Please inform the quantity that you wish to buy
+10
+Vitamins
+You have successfully bought the product 
+********************************
+  App21-04: Vinicius`s application 
+      
+********************************
+
+    Add:          Add a new product
+    Remove:       Remove an old product
+    Buy:          Buy a listed product
+    Sell:         Sell a listed product
+    Search:       Search a product name protein
+    Lowstock:     Print products listed with low amount
+    Restock:      Re-stock listed products
+    Print:        Print all products
+    Quit:         Quit the program
+
+Please enter your choice > print
+
+ Vinicius's Gym warehouse List
+ ====================
+
+ ID 101: Protein Powder stock level: 0
+ ID 102: Mass Gainer stock level: 0
+ ID 103: Protein Bar stock level: 0
+ ID 104: Dumbbell stock level: 0
+ ID 105: Ketllebell stock level: 0
+ ID 106: Exercise Rubber Band stock level: 0
+ ID 107: Barbell stock level: 0
+ ID 108: Vegan Protein stock level: 0
+ ID 109: Vitamins stock level: 10
+ ID 110: Gloves stock level: 10
+
+********************************
+  App21-04: Vinicius`s application 
+      
+********************************
+
+    Add:          Add a new product
+    Remove:       Remove an old product
+    Buy:          Buy a listed product
+    Sell:         Sell a listed product
+    Search:       Search a product name protein
+    Lowstock:     Print products listed with low amount
+    Restock:      Re-stock listed products
+    Print:        Print all products
+    Quit:         Quit the program
+
+Please enter your choice > sell
+Please inform the ID`s product 
+110
+Please enter amount of product to sell 
+5
+You have successfully sold the product
+********************************
+  App21-04: Vinicius`s application 
+      
+********************************
+
+    Add:          Add a new product
+    Remove:       Remove an old product
+    Buy:          Buy a listed product
+    Sell:         Sell a listed product
+    Search:       Search a product name protein
+    Lowstock:     Print products listed with low amount
+    Restock:      Re-stock listed products
+    Print:        Print all products
+    Quit:         Quit the program
+
+Please enter your choice > search
+Please enter the name of Productgloves
+********************************
+  App21-04: Vinicius`s application 
+      
+********************************
+
+    Add:          Add a new product
+    Remove:       Remove an old product
+    Buy:          Buy a listed product
+    Sell:         Sell a listed product
+    Search:       Search a product name protein
+    Lowstock:     Print products listed with low amount
+    Restock:      Re-stock listed products
+    Print:        Print all products
+    Quit:         Quit the program
+
+Please enter your choice > lowstock
+Please inform the product ID to be verified
+108
+the product is running out of stock,inform the quatity to be readded
+10
+********************************
+  App21-04: Vinicius`s application 
+      
+********************************
+
+    Add:          Add a new product
+    Remove:       Remove an old product
+    Buy:          Buy a listed product
+    Sell:         Sell a listed product
+    Search:       Search a product name protein
+    Lowstock:     Print products listed with low amount
+    Restock:      Re-stock listed products
+    Print:        Print all products
+    Quit:         Quit the program
+
+Please enter your choice > restock
+Please inform the prodcut to be re-stocked
+101
+please inform the quantity to be added for the product
+10
+not product available
+********************************
+  App21-04: Vinicius`s application 
+      
+********************************
+
+    Add:          Add a new product
+    Remove:       Remove an old product
+    Buy:          Buy a listed product
+    Sell:         Sell a listed product
+    Search:       Search a product name protein
+    Lowstock:     Print products listed with low amount
+    Restock:      Re-stock listed products
+    Print:        Print all products
+    Quit:         Quit the program
+
+Please enter your choice > 
